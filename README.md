@@ -1,4 +1,4 @@
-# Commerce Index catalog review
+# Commerce Index Insight
 
 A plugin for Claude. It reviews your own Shopify store's catalog with the Commerce Index connector.
 It finds variants priced below unit cost, margins under your margin floor, compare-at prices below the selling price, variants with no sellable stock, and missing prices or costs.
