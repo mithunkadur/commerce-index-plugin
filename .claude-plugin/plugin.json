@@ -1,0 +1,22 @@
+{
+  "name": "commerce-index-review",
+  "displayName": "Commerce Index catalog review",
+  "version": "1.0.0",
+  "description": "Review your own Shopify catalog with Commerce Index: variants priced below unit cost, margins under your floor, compare-at prices below price, no sellable stock and missing data. Read-only.",
+  "author": {
+    "name": "Commerce Index",
+    "email": "mithun.kadur@sagisu.com",
+    "url": "https://commerceindex.com"
+  },
+  "homepage": "https://commerceindex.com",
+  "supportUrl": "mailto:mithun.kadur@sagisu.com",
+  "privacyPolicyUrl": "https://commerceindex.com/privacy",
+  "license": "MIT",
+  "keywords": [
+    "shopify",
+    "catalog",
+    "margin",
+    "pricing",
+    "inventory"
+  ]
+}

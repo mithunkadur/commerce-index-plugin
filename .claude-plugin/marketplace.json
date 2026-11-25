@@ -1,0 +1,16 @@
+{
+  "name": "commerce-index-plugins",
+  "owner": {
+    "name": "Commerce Index"
+  },
+  "metadata": {
+    "description": "The Commerce Index plugin for Claude: review your own Shopify catalog for prices below cost, thin margins, wrong sale prices and empty stock. Read-only."
+  },
+  "plugins": [
+    {
+      "name": "commerce-index-review",
+      "source": "./",
+      "description": "Review your own Shopify catalog with Commerce Index: variants priced below unit cost, margins under your floor, compare-at prices below price, no sellable stock and missing data. Read-only."
+    }
+  ]
+}

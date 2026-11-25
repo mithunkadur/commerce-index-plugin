@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "commerce-index": {
+      "type": "http",
+      "url": "https://commerceindex.com/api/connector/mcp"
+    }
+  }
+}
