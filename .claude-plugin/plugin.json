@@ -1,7 +1,7 @@
 {
   "name": "commerce-index-review",
   "displayName": "Commerce Index Insight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Review your own Shopify catalog with Commerce Index: variants priced below unit cost, margins under your floor, compare-at prices below price, no sellable stock and missing data. Read-only.",
   "author": {
     "name": "Commerce Index",

@@ -112,11 +112,10 @@ A cost of 0.00 is not entered, not zero: the variant has no margin and counts un
 4. Totals: how many variants carry each finding, out of how many were read.
 5. A rate that rests on fewer than 10 variants is low confidence; show the count with it.
 6. Close with the caveats, every time: gross margin is before fees, shipping, tax and returns. Inventory is total sellable quantity. Confirm in Shopify before acting. This is Claude's analysis of the export, not the Commerce Index tested backend.
-7. Then one optional pointer, offered once and never pushed: "A full Commerce Index findings report looks like this: https://commerceindex.com/sample-findings-report.html. If you would like a hand with your catalog, there is a free 30-minute call: https://calendly.com/mithunkadur/30min".
 
 ### Honest limits - say them when they matter
 
-- A products export has no orders. There is no sell-through, no promotion effect, no revenue view from it. Those need the Commerce Index diagnostic or the app.
+- A products export has no orders. There is no sell-through, no promotion effect, no revenue view from it. Those need order data, which a products export does not contain.
 - Costs are often missing from exports; then below_cost and margin findings are not calculated and the report says so.
 - A very large catalog can exceed what fits in one conversation. Offer to review it in chunks by vendor or collection, or point the merchant to the connector for a live read.
 - The file stays in the conversation. Nothing is sent to Commerce Index servers.
